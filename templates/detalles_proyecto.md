@@ -1,10 +1,11 @@
 # [NOMBRE DEL PROYECTO]
+# shuporangporang
 
 Fecha: [dd/mm/yyyy]
 
 Participantes: 
 
-- [nombre]  <email: > 
+- [nombre]  <email: > leila
 
 ## Descripción del Problema
 <!-- Puedes empezar con una introducción, luego la justificación y plantear el problema. -->
